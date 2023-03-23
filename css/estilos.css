@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://img.freepik.com/fotos-gratis/borrao-de-luxo-abstrato-gradiente-de-cor-cinza-usado-como-parede-de-estudio-de-fundo-para-exibir-seus-produtos_1258-52609.jpg?w=1480&t=st=1679583060~exp=1679583660~hmac=aec221719dfa4d5e24ccb8cc2eae29a846b09eb70f6232bd29dd55633d99ac31');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh
+  }
+  
+  .menu {
+    background-color: #696969;
+    }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: #2e2e2e;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
